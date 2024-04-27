@@ -90,27 +90,35 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: ResearchGate
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.researchgate.net/
+  - icon: Academia.edu
+    icon_pack: fab
+    link: https://independent.academia.edu/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%9D%D0%B0%D0%BC%D1%80%D1%83%D0%B5%D0%B2
+  - icon: etsy
+    icon_pack: fab
+    link: https://www.elibrary.ru/defaultx.asp?
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?view_op=list_works&hl=ru&user=seA3cgoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/msnmaruev
+  - icon: orcid
+    icon_pack: fab 
+  - icon: Mendeley
+    icon_pack: fas
+    link: https://www.mendeley.com/search/
+    
+  
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+ 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
